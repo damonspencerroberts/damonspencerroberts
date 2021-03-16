@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I speak English and French, have lived in 6 countries, and love Travelling!
 - 👨‍💻 Currently looking for work!
 
-> All right, all right, all right
+*All right, all right, all right*
 
 ![](https://komarev.com/ghpvc/?username=damonspencerroberts&color=green&style=plastic)
