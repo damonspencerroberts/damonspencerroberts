@@ -1,8 +1,8 @@
-### Hi there my name is Damon👋
+## Hi there my name is Damon👋
 
-##### Recent grad of Le Wagon Full Stack Web Development Bootcamp in London!
+### Recent grad of Le Wagon Full Stack Web Development Bootcamp in London!
 
-*Most of my current work since April with Weekendr.eu is on Gitlab on a private repo*
+#### Most of my current work since April with Weekendr.eu is on Gitlab on a private repo
 
 - 🔭 My favourite languages/frameworks to use are **React, Rails and Python**.
 - 🌱 I’m currently learning more Python and plan to learn Golang soon.
