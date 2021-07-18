@@ -1,6 +1,7 @@
 ## Hi there my name is Damon👋
 
-### Recent grad of Le Wagon Full Stack Web Development Bootcamp in London!
+### Grad of Le Wagon Full Stack Web Development Bootcamp in London!
+### Currently working at Weekendr.eu
 
 ## *Most of my current work since April with Weekendr.eu is on Gitlab on a private repo*
 
