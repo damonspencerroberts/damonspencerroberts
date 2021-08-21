@@ -3,6 +3,8 @@
 ### Grad of Le Wagon Full Stack Web Development Bootcamp in London!
 ### Currently working at Weekendr.eu
 
+### Currenly learning Elixir 
+
 ## *Most of my current work since March with Weekendr.eu is on Gitlab on a private repo*
 
 - 🔭 My favourite languages/frameworks to use are **React, Rails and Python**.
