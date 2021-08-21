@@ -8,7 +8,7 @@
 ## *Most of my current work since March with Weekendr.eu is on Gitlab on a private repo*
 
 - 🔭 My favourite languages/frameworks to use are **React (Next.js), Ruby on Rails, Python and Elixir**.
-- 🌱 I’m currently learning more Python and plan to learn Golang soon.
+- 🌱 I’m currently learning Elixir.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damon-roberts1997/) or damonspencerroberts@gmail.com
 - ⚡ Fun fact: I speak English and French, have lived in 6 countries, and love Travelling!
 
