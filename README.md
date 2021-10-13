@@ -1,7 +1,7 @@
 ## Hi there my name is Damon👋
 
 ### Grad of Le Wagon Full Stack Web Development Bootcamp in London!
-### Currently working at Weekendr.eu
+### Currently working at ChilliBean
 
 ### Currenly learning Elixir 
 
