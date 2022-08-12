@@ -3,7 +3,7 @@
 ### Grad of Le Wagon Full Stack Web Development Bootcamp in London!
 ### Currently working at ChilliPharm
 
-#### Currenly learning Elixir 
+#### Currently learning Elixir 
 
 
 - 🔭 My favourite languages/frameworks to use are **React (Next.js), React Native, Ruby on Rails, and Elixir**.
