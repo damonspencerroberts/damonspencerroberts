@@ -1,17 +1,12 @@
 ## Hi there my name is Damon👋
 
+### Bachelor of Science in Economics
 ### Grad of Le Wagon Full Stack Web Development Bootcamp in London!
 ### Currently working at ChilliPharm
 
-#### Currently learning Elixir 
-
-
-- 🔭 My favourite languages/frameworks to use are **React (Next.js), React Native, Ruby on Rails, and Elixir**.
-- 🌱 I’m currently learning Elixir.
+- 🔭 My favourite languages/frameworks to use are **Javascript, Typescript, React, Python & Ruby on Rails**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damon-roberts1997/) or damonspencerroberts@gmail.com
 - ⚡ Fun fact: I speak English and French, have lived in 6 countries, and love Travelling!
-
-*All right, all right, all right*
 
 ![](https://komarev.com/ghpvc/?username=damonspencerroberts&color=green&style=plastic)
 
